@@ -11,7 +11,9 @@
   ],
   "Website": "https://github.com/cozyGalvinism/HyCompute",
   "ServerVersion": "*",
-  "Dependencies": {},
+  "Dependencies": {
+    "Hytale:BlockModule": "*"
+  },
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": true
